@@ -9,4 +9,5 @@
 ## About Me ##
 I am 37 years old. Before training, he worked as a sales manager for 10 years. I want to master a new profession. The choice fell on the front-end development.
 ***********
-
+## My projects ##
+[CV](https://github.com/Cheshir212/rsschool-cv/blob/gh-pages/cv.md)
