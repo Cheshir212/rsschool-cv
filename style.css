@@ -1,3 +1,67 @@
-.fon {
-    background-color: #000003;
+* {
+    box-sizing: border-box;
+  }
+html {
+    scroll-behavior: smooth; 
+  }
+.body {
+    min-height: 100%;
+    width: 940px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgba(43, 40, 40, 0.836);
+}
+.nav {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 35px; 
+    background-color: white;
+}
+a {text-decoration: none;
+color: black;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.rightHead {
+    line-height: 10px;
+    font-size: 30px;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    background-color: white;
+}
+.section {
+    font-size: 35px;
+    height: auto;
+    text-align: center;
+    padding: auto;
+}
+.opisanie {
+    font-size: 20px;
+    padding: 20px;
+    vertical-align: middle; 
+}
+.ul {
+    font-size: 20px;
+    margin-bottom: 20px;
+   
+}
+.li {
+    display: inline;
+    list-style-type: none;
+    margin: 30px;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: baseline;
+    background-color: white;
 }
